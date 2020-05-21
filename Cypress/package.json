@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^4.6.0"
-  }
+    "cypress": "^4.6.0",
+    "randomstring": "^1.1.5"
+  },
+  "dependencies": {}
 }
